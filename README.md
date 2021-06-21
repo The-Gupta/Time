@@ -1,7 +1,7 @@
 # Time Magazine
 Time Magazine Scraper, Text Extraction (OCR), and Data Exploration with Topic Modelling
 
-01.ipynb:  Code 
+01.ipynb:  Code <br> _Open in Colab_ to explore the topic or run the code.
 
 Part 1: Scraping from [Time Vault](https://time.com/vault/) from 1923-2015. <br> [Scraped Data from 1923-2015](https://drive.google.com/drive/u/1/folders/1fFoFxY4i3YU-KNkz84_AG9Nftxr4Alnb)
 
